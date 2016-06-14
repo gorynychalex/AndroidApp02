@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroidApp02</string>
+    <string name="edit_activity_simple_text">Редактирование данных</string>
+</resources>
